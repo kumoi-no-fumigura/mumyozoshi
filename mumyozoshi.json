@@ -1,6 +1,7 @@
 {
  "work": "無名草子",
  "work_id": "mumyozoshi",
+ "repo": "kumoi-no-fumigura/mumyozoshi",
  "yomi": "むみょうぞうし",
  "category": "歌学書",
  "editions": [
@@ -276,6 +277,5 @@
    ],
    "text": "918K0547M084892-009-6(M)918-Ko547M国文大観丸岡桂松下大三郎編M36-39DBB-000"
   }
- ],
- "repo": "kumoi-no-fumigura/mumyozoshi"
+ ]
 }
